@@ -1,1 +1,2 @@
-It is a LICENSE file
+It is a LICENSE file!
+connect to github!
